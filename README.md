@@ -9,8 +9,14 @@
 
 <h4>ℹ️ for more details</h4>
 
- - 🔭 I’m currently working on web applications development work with a focus in React, HTML and CSS processors.
- - 🌱 I’m interested in music platforms.
+ - 🔭 I am proficient in HTML, CSS, and JavaScript for front-end development.
+ - 🌱 I have experience integrating RESTful APIs into web applications.
+ - 🔭 I am skilled in frameworks like React and Redux to build interactive user interfaces.
+ - 🌱 I am familiar with Node.js, MongoDB, SQL, and Express for back-end development and database management.
+ - 🔭 Additionally, I have knowledge of various technologies such as JSON, Jest, Prisma, Git, GitHub, and Heroku.
+ - 🌱 I utilize unit testing and integration testing for quality assurance in web development projects.
+   
+ 
  - ⚡️ Fun-Fact: I recently released my digital album “believing” of electronic music (accessible at https://linktr.ee/byungjinkim).
  - 😄 Pronouns: he/him/his
 
