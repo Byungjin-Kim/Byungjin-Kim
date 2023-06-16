@@ -15,7 +15,7 @@
 
 - 👨‍💻 I am proficient in HTML, CSS, and JavaScript for front-end development.
 
-- 🌐 I have experience integrating RESTful APIs into web applications.
+- 🌐 I have experience integrating RESTful APIs into web applications and utilizing Context API for state management.
 
 - 🚀 I am skilled in frameworks like React and Redux to build interactive user interfaces.
 
