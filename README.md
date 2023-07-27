@@ -9,7 +9,9 @@
 
 <h3>🙆🏻 About me</h3>
 
-🤞 Nice to see you here! I am a <strong>full-stack software developer</strong>🚀 with a background in music composition.🎶 I am very enthusiastic about providing Creativity and Problem-Solving with constant love for languages. Besides programming, I enjoy playing the piano/organ for Bach and contemporary music.
+🤞 Nice to see you here! I am a <strong>full-stack software developer</strong>🚀 with a background in music composition.🎶 
+I am very enthusiastic about providing Creativity and Problem-Solving with constant love for languages. 
+Besides programming, I enjoy playing the piano/organ for Bach and contemporary music.
 
 <h4>ℹ️ for more details</h4>
 
