@@ -15,7 +15,7 @@ Besides programming, I enjoy playing the piano/organ for Bach and contemporary m
 
 <h4>ℹ️ for more details</h4>
 
-- 👨‍💻 I am proficient in HTML, CSS, and JavaScript for front-end development.
+- 👨‍💻 I am proficient in HTML, CSS, and JavaScript/Typescript for front-end development.
 
 - 🌐 I have experience integrating RESTful APIs into web applications and utilizing Context API for state management.
 
