@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm BJ (Byungjin)</h2>
+<h2>👋 Hi, I'm Byung-Jin (병진)</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ByungjinKim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byungjinkim/)](https://www.linkedin.com/in/byungjinkim/)
 [![Gmail Badge](https://img.shields.io/badge/-composerjins@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:composerjins@gmail.com)](mailto:composerjins@gmail.com)
