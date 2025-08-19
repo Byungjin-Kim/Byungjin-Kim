@@ -22,7 +22,7 @@ Besides programming, I enjoy playing the piano/organ for Bach and contemporary m
 
 - 🚀 I am skilled in frameworks like React and Redux to build interactive user interfaces.
 
-- 📡 I am familiar with Node.js, MongoDB, SQL, and Express for back-end development and database management.
+- 📡 I am familiar with Node.js, MongoDB, SQL, Express, and Python for back-end development and database management.
 
 - 💡 Additionally, I have knowledge of various technologies such as JSON, Jest, Prisma, Git, GitHub, and Heroku.
 
